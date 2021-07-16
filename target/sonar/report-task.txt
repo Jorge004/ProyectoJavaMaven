@@ -1,0 +1,7 @@
+organization=jorge004
+projectKey=Jorge004_ProyectoJavaMaven
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=Jorge004_ProyectoJavaMaven
+ceTaskId=AXqtBEjclG1PxIkOFK_L
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqtBEjclG1PxIkOFK_L
